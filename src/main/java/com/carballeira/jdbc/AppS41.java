@@ -13,7 +13,7 @@ public class AppS41 {
 	public static void main(String[] args) {
 		String url = "jdbc:mariadb://10.10.32.14:3306/academia";
 		String usuario = "root";
-		String password = "abc123."; // No publicar credenciales
+		String password = "abc123.";
 		try (Connection conexion = (Connection) DriverManager.getConnection(url, usuario, password)) {
 		    System.out.println("Conexión correcta con MariaDB");
 		    
