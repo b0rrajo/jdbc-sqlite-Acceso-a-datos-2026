@@ -35,6 +35,12 @@
 			<artifactId>junit-jupiter-api</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- Dentro de <dependencies> -->
+		<dependency>
+			<groupId>org.mariadb.jdbc</groupId>
+			<artifactId>mariadb-java-client</artifactId>
+			<version>3.5.10</version>
+		</dependency>
 		<!-- Optionally: parameterized tests support -->
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>

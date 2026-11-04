@@ -30,8 +30,6 @@ public class AppS29 {
 				 System.out.print(c);
 				 contadorCaracteres++;
 				}
-				
-
 			lector.close();
 			File fichero = new File("texto_s29.txt");
 			System.out.println("Número de caracteres: " + contadorCaracteres);
