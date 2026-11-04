@@ -1,0 +1,5 @@
+RESUMEN DEL GRUPO
+Total alumnos: 6.0
+Aprobados: 4.0
+Suspensos: 2.0
+Media: 6.216666666666666

@@ -1,0 +1,3 @@
+Primera linea de BufferedWriter
+Segunda linea de BufferedWriter
+Tercera linea de BufferedWriter
