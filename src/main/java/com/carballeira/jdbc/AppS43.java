@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class AppS43 {
 	public static void main(String[] args) throws SQLException {
-		String url = "jdbc:mariadb://10.10.32.14:3306/academia";
+		String url = "jdbc:mariadb://192.168.10.95:3306/academia";
 		String usuario = "root";
 		String password = "abc123.";
 		String sql = "SELECT alumnos.nombre, alumnos.apellidos, " + "matriculas.asignatura FROM alumnos "
