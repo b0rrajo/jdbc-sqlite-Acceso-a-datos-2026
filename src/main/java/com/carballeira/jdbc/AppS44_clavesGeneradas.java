@@ -12,7 +12,7 @@ import org.mariadb.jdbc.Statement;
 public class AppS44_clavesGeneradas {
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) throws SQLException {
-		String url = "jdbc:mariadb://192.168.10.95:3306/academia";
+		String url = "jdbc:mariadb://10.10.32.14:3306/academia";
 		String user = "root", pass = "abc123.";
 		
 		System.out.print("Indica cuantos alumnos quieres meter: ");
